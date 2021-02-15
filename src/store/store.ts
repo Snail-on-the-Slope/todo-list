@@ -10,7 +10,7 @@ export const store = new Vuex.Store({
     plugins: [StoragePlugin()],
     state: {
         tasks: [
-            {_id: 1, name: 'drink some beer', created_at: new Date(), updated_at: new Date(), completed: false},
+            {_id: 1, name: 'sleep', created_at: new Date(), updated_at: new Date(), completed: false},
         ] as Task[],
         deletedTasks: []  as Task[]
     },
