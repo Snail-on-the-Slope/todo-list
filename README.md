@@ -1,3 +1,5 @@
+DEMO: https://snail-on-the-slope.github.io/todo-list/.
+
 # todo-list
 
 ## Project setup
